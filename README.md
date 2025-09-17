@@ -13,7 +13,7 @@ HTML y CSS. Este sitio web muestra sus habilidades, experiencia y proyectos de m
 <h1>🔨 Funcionalidades del proyecto</h1>
 
 <p>*Diseño responsive: Adaptación perfecta a dispositivos móviles, tablets y escritorios<br>
-*Navegación intuitiva: Menú de navegación con secciones Home, Sobre Mí y Curriculum<br>
+*Navegación intuitiva: Menú de navegación con secciones Home, Sobre Mí y Curriculum.<br>
 *Presentación profesional: Diseño limpio y moderno que destaca las habilidades de la desarrolladora<br>
 *Sección de experiencias: Muestra detallada de la experiencia laboral y estudios<br>
 *Enlaces a redes sociales: Acceso directo a sus perfiles profesionales</p>
