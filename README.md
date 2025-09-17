@@ -2,6 +2,7 @@
 
 ![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
 
+
 <h1>Nombre del proyecto</h1><h1>
   
 <h1>Portfolio Personal - Ana García y Curriculum Karen De Moya </h1><br>
@@ -25,12 +26,10 @@ HTML y CSS. Este sitio web muestra sus habilidades, experiencia y proyectos de m
 *Principios de accesibilidad: Implementación de mejores prácticas para inclusividad</p>
 
 <h1>📁 Acceso al proyecto</h1>
-<p>1.Clona el repositorio en tu máquina local:</p>
-git clone https://github.com/kademoyar31/portfolio-ana-garcia.git
-
-<p>2.Navega al directorio del proyecto:</p>
-cd portfolio-ana-garcia
-
+<p>1.Clona el repositorio en tu máquina local:
+git clone https://github.com/kademoyar31/portfolio-ana-garcia.git</p>
+<p>2.Navega al directorio del proyecto:
+cd portfolio-ana-garcia</p>
 <p>3.Abre el archivo index.html en tu navegador</p>
 
 <h1>📚 Más información del curso</h1>
